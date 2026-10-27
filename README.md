@@ -63,7 +63,7 @@
   <a href="https://huggingface.co/MadsMunkNielsen" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
 </p>
 
-## Publications
+<!-- ## Publications
 
 <details>
 <summary>Adapting SNPbag for Phenotype Prediction: A Transformer-Based Approach to Polygenic Risk (2026) <a href="https://projekter.aau.dk/adapting-snpbag-for-phenotype-prediction-a-transformer-based-approach-to-polygenic-risk-4ab714f5.html" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/AAU-Light.svg" width="28" align="center" /></a></summary>
@@ -102,5 +102,5 @@
 <a href="https://vbn.aau.dk/da/persons/mads-nielsen/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/AAU-Light.svg" width="48" /></a>
 <a href="https://scholar.google.com/citations?user=7cgPvisAAAAJ&hl=da" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/GoogleScholar-Light.svg" width="48" /></a>
 
-</div>
+</div> -->
 
