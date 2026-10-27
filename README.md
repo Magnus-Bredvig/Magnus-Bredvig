@@ -55,12 +55,9 @@
 ## Connect with me
  
 <p align="center">
-  <a href="https://github.com/MadsMunkNielsen" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
-  <a href="https://linkedin.com/in/madsmunknielsen" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madsmn@math.aau.dk" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
-  <a href="https://discord.com/users/munkeren6297" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://www.instagram.com/mads.munk/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://huggingface.co/MadsMunkNielsen" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
+  <a href="https://github.com/Magnus-Bredvig" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
+  <a href="https://linkedin.com/in/magnusbredvig" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=magnusb@mp.aau.dk" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
 </p>
 
 <!-- ## Publications
