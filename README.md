@@ -1,12 +1,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mads+Munk+Nielsen;Statistician" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Magnus+Bredvig;M.Sc.+Mathematics+Economics" alt="Typing SVG" /></a>
 
-### <div align="center">Research Assistant at Aalborg University, Department of Mathematical Sciences </div>  
+### <div align="center">Research Assistant at Aalborg University, Department of Material and Production </div>  
 
 - 🔬 I'm researching transformer architectures and their applications in deep learning, with a focus on Bayesian methods and probabilistic modeling
-- 🛠️ I build and train models using PyTorch and TensorFlow, working across the full pipeline from statistical theory to implementation
 
   
 
