@@ -1,9 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=957372&height=120§ion=header" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Magnus+Bredvig;M.Sc.+Mathematics+Economics" alt="Typing SVG" /></a>
 
-### <div align="center">Research Assistant at Aalborg University, Department of Material and Production </div>  
+### <div align="center">Research Assistant at Aalborg University, Department of Materials and Production </div>  
 
 - 🔬 I'm researching transformer architectures and their applications in deep learning, with a focus on Bayesian methods and probabilistic modeling
 
@@ -25,21 +25,16 @@
 <a href="https://pola.rs/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/Polars-Light.svg" width="48" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
-<a href="https://developer.nvidia.com/cuda/toolkit" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda&theme=light" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia&theme=light" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=light" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&theme=light" /></a>
 </td>
 <td valign="center" width="50%" align="center">
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab&theme=light" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=light" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
@@ -57,7 +52,7 @@
 <p align="center">
   <a href="https://github.com/Magnus-Bredvig" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
   <a href="https://linkedin.com/in/magnusbredvig" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=magnusb@mp.aau.dk" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+  <a href="mailto:magnusb@mp.aau.dk"><img src="https://go-skill-icons.vercel.app/api/icons?i=outlook&theme=light" /></a>
 </p>
 
 <!-- ## Publications
