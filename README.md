@@ -25,7 +25,6 @@
 <a href="https://pola.rs/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars&theme=light" width="48" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
-<br/>
 <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia&theme=light" /></a>
