@@ -5,9 +5,9 @@
 
 ### <div align="center">Research Assistant at Aalborg University, Department of Materials and Production </div>  
 
-- 🏦 I modelled time to debt recovery after default for a Danish bank, using Gamma mixture survival models with LASSO and likelihood-ratio variable selection
-- 🚢 I built an unsupervised framework for detecting abnormal vessel maneuvers in AIS data, combining MFPCA, Dynamic Time Warping and LSTM autoencoders with HDBSCAN clustering
-- 🧬 In my master's thesis I developed a cost-sensitive XGBoost pipeline for pre-screening HFE C282Y homozygosity from blood biomarkers, using MICE imputation and MILP threshold optimization
+- 🏦 I modelled time to debt recovery after default for a Danish bank, using mixture survival models.
+- 🚢 I built an unsupervised framework for detecting abnormal vessel maneuvers in AIS data, combining MFPCA, Dynamic Time Warping and LSTM autoencoders with HDBSCAN clustering.
+- 🧬 In my master's thesis I developed a cost-sensitive XGBoost pipeline for pre-screening HFE C282Y homozygosity from blood biomarkers.
 
   
 
