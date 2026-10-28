@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=957372&height=120§ion=header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Magnus+Bredvig;M.Sc.+Mathematics+Economics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&color=A0605E&lines=Magnus+Bredvig;M.Sc.+Mathematics+Economics" alt="Typing SVG" /></a>
 
 ### <div align="center">Research Assistant at Aalborg University, Department of Materials and Production </div>  
 
@@ -22,13 +22,14 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=light" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
-<a href="https://pola.rs/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/Polars-Light.svg" width="48" /></a>
+<a href="https://pola.rs/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars&theme=light" width="48" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
+<br/>
 <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia&theme=light" /></a>
-<a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=light" width="48" /></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=light" /></a>
 </td>
 <td valign="center" width="50%" align="center">
@@ -37,6 +38,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=light" /></a>
+<br/>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=light" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=light" /></a>
